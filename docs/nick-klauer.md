@@ -2,3 +2,4 @@
  - [X] Where you are from - Madison, WI
  - [X] A favorite food - Hummus and PIta chips
  - [X] A hobby - Wine Tasting
+ - [X] Favorite Color - Green
